@@ -29,8 +29,8 @@ A Django-based backend for managing purchase orders, inventory stock, and suppli
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/po-management.git
-cd po-management
+git clone git@github.com:russell310/po_management_system.git
+cd po_management_system
 ```
 
 ### 2. Create Virtual Environment
